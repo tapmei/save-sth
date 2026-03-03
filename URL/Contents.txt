@@ -6,3 +6,5 @@ cinetry
 cinetry.txt
 使用教程：打开软件➡️我的➡️资源库➡️右上角导入资源库，输入https://gongdian.top/tvbox/cinetry.txt，重启软件即可使用。
 
+videoURL.json
+https://raw.githubusercontent.com/rapier15sapper/ew/refs/heads/main/test.json
